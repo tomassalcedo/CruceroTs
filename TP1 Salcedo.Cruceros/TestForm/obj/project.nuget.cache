@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUTUiOMaek7rMrwSfJCTofdo4dW98Z37F9+yjQKoxevdYsPTUOv/vqw9fsXY1nY0X1AgkkwEwvSMUURp0jt4Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Cruise-TS\\TP1 Salcedo.Cruceros\\TestForm\\TestForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
